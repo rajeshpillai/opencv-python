@@ -1,2 +1,5 @@
 venv
-images
+bin
+share
+.cfg
+lib
